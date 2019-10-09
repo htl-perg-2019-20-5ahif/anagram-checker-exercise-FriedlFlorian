@@ -1,0 +1,8 @@
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE02_AnagramChecker\anagram-checker-exercise-FriedlFlorian\HUE02_AnagramChecker_Friedl\KlassenbibliothekAnagram\bin\Debug\netstandard2.0\KlassenbibliothekAnagram.deps.json
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE02_AnagramChecker\anagram-checker-exercise-FriedlFlorian\HUE02_AnagramChecker_Friedl\KlassenbibliothekAnagram\bin\Debug\netstandard2.0\KlassenbibliothekAnagram.dll
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE02_AnagramChecker\anagram-checker-exercise-FriedlFlorian\HUE02_AnagramChecker_Friedl\KlassenbibliothekAnagram\bin\Debug\netstandard2.0\KlassenbibliothekAnagram.pdb
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE02_AnagramChecker\anagram-checker-exercise-FriedlFlorian\HUE02_AnagramChecker_Friedl\KlassenbibliothekAnagram\obj\Debug\netstandard2.0\KlassenbibliothekAnagram.csprojAssemblyReference.cache
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE02_AnagramChecker\anagram-checker-exercise-FriedlFlorian\HUE02_AnagramChecker_Friedl\KlassenbibliothekAnagram\obj\Debug\netstandard2.0\KlassenbibliothekAnagram.AssemblyInfoInputs.cache
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE02_AnagramChecker\anagram-checker-exercise-FriedlFlorian\HUE02_AnagramChecker_Friedl\KlassenbibliothekAnagram\obj\Debug\netstandard2.0\KlassenbibliothekAnagram.AssemblyInfo.cs
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE02_AnagramChecker\anagram-checker-exercise-FriedlFlorian\HUE02_AnagramChecker_Friedl\KlassenbibliothekAnagram\obj\Debug\netstandard2.0\KlassenbibliothekAnagram.dll
+D:\Schule\5_Klasse\MobileComputing\HUE\HUE02_AnagramChecker\anagram-checker-exercise-FriedlFlorian\HUE02_AnagramChecker_Friedl\KlassenbibliothekAnagram\obj\Debug\netstandard2.0\KlassenbibliothekAnagram.pdb

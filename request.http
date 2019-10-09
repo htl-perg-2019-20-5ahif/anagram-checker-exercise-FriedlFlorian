@@ -1,0 +1,18 @@
+GET http://localhost:5000/api/checkAnagram
+Content-Type: application/json
+
+{
+    "word1": "listen",
+    "word2": "silent"
+}
+
+
+###
+
+GET http://localhost:5000/api/checkAnagram
+Content-Type: application/json
+
+{
+    "w1": "talk",
+    "w2": "jump"
+}
